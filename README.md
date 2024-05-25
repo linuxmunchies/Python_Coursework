@@ -1,3 +1,10 @@
+# TODO LIST:
+1. Document HW4, HW5
+2. Document HWTurtleExtra
+3. Document BonusHW & Upload BonusHW
+4. Combine HW1-HW5 + bonus + turtle into one mega-python file.
+5. Backup documentation
+
 # Python_Coursework
 ### Summary of the breakdown:
 Homeworks 1-3 were combined from my initial CS103 Python Dev course into one megafile. To supplement this, I have broken down each merged piece (homework) into simple explanations to 'make it make sense', so to say. 
